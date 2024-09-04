@@ -9,7 +9,7 @@ points_list = tp.manually_convert_tree_to_list(x)  # ignore the error, it's just
 
 surfaces = []
 # Iterate through the nested lists to extract the X, Y, and Z coordinates
-for sublist in points_list:
+for sublist in points_list:fefefsfwwgf
     surface_points = []
     for inner_list in sublist:
         for point in inner_list:
